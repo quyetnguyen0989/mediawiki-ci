@@ -19,8 +19,8 @@ if ( !defined( 'MEDIAWIKI' ) ) {
 ## Uncomment this to disable output compression
 # $wgDisableOutputCompression = true;
 
-$wgSitename = "Bitnami MediaWiki";
-$wgMetaNamespace = "Bitnami_MediaWiki";
+$wgSitename = "Quyet-Nguyen";
+$wgMetaNamespace = "Quyet-Nguyen";
 
 ## The URL base path to the directory containing the wiki;
 ## defaults for all runtime URL paths are based off of this.
